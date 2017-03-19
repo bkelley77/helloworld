@@ -10,7 +10,7 @@ import sys
 def main():
   #
   print("Hello world!")
-  print("Testing git with aws and pycharm paid for version6")
+  print("Testing git with aws and pycharm paid for version7")
     
 
 print('__name__=' + __name__)
