@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa401264-a434-4a0a-9ea8-7d666da52631" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helloworld.py" afterPath="$PROJECT_DIR$/helloworld.py" />
-    </list>
+    <list default="true" id="aa401264-a434-4a0a-9ea8-7d666da52631" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
