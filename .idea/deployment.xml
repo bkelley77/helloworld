@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="aws-2-35.167.88.49">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/test-python-aws" local="$PROJECT_DIR$" web="/test-python-aws" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
